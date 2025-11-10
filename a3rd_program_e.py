@@ -32,7 +32,7 @@ def main():
             print("Bye!")
             break
         
-        # Добавляем https:// если пользователь забыл
+        # Adding https:// if user forgot to do so
         if not url.startswith('http'):
             url = 'https://' + url
         
