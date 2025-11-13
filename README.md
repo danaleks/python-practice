@@ -1,6 +1,6 @@
 #  Website Checker
 
-Простая программа на Python для проверки доступности веб-сайтов.
+Simple CLI Python program for checking the accessability of the websites
 
 ##  What does it do:
 
@@ -15,8 +15,8 @@
 - Python 3.7+
 - lib `requests`
 
-### Установка
-```bash
+### Installment
+```
 # clone rep
 git clone https://github.com/YOUR-USERNAME/python-practice.git
 cd python-practice
@@ -52,7 +52,7 @@ Enter the command: quit
 Bye! 
 ```
 
-## What I learned here
+## What I ve learned here
 
 - Practice with `requests`
 - HTTP requests&server answers practice
